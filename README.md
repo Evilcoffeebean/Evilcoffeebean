@@ -1,5 +1,13 @@
 ## Hi there 👋
+Passionate about technology. Sometimes a software developer.
+## Socials 🔭
+  - Spigot: [Click Me](https://www.spigotmc.org/members/marind99.22525/)
+  - Builtbybit: [Click Me](https://builtbybit.com/members/stockfish.15661/)
 
+## Contact 💬
+  - [Get in touch](mailto:twinsanity90@gmail.com)
+## 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evilcoffeebean&show_icons=true&theme=synthwave)
 <!--
 **Evilcoffeebean/Evilcoffeebean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
